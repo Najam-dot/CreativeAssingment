@@ -1,0 +1,27 @@
+.testimonials {
+  background-color: #ffffff;
+}
+.testimonialsHeading {
+  text-align: center;
+}
+.testimonialsHeading h2 {
+  margin-top: 22px;
+  font-size: 35px;
+  font-weight: 700;
+}
+.testimonialsWrap {
+  padding: 50px 0px 130px 0px;
+  display: flex;
+  flex-direction: column;
+}
+.testimonialsText {
+  background-color: #fcf7ec;
+  max-width: 1063px;
+  width: 100%;
+  padding: 53px 40px 33px 44px;
+  margin: 90px auto 0px auto;
+  font-style: Italic;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}

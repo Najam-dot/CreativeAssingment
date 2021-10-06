@@ -1,0 +1,21 @@
+.services {
+  background-color: #ffdc82;
+  padding: 64px 0px 0px 0px;
+}
+.servicesWrap {
+  display: flex;
+  flex-direction: column;
+}
+.servicesHeading {
+  text-align: center;
+}
+.servicesHeading img {
+  margin-bottom: 20px;
+}
+.servicesData {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 70px;
+  justify-content: space-between;
+}

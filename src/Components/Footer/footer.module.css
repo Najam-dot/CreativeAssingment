@@ -1,0 +1,33 @@
+.footerTop {
+  background-color: #deb343;
+  padding: 60px 0px;
+  color: #674b01;
+  font-size: 16px;
+}
+.footerTop a {
+  color: #674b01;
+}
+.footerTopWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footerBottom {
+  background-color: #5b7c11;
+  color: #ffffff;
+  padding: 18px 0px 20px 0px;
+}
+.footerBottomWrap {
+  display: flex;
+  justify-content: space-between;
+}
+.footerCopyright {
+  max-width: 34.7%;
+  width: 100%;
+  font-size: 14px;
+}
+.footerSocial {
+  max-width: 15%;
+  width: 100%;
+  padding-right: 43px;
+}

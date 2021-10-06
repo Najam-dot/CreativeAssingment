@@ -1,0 +1,17 @@
+.hero {
+  background-image: url("../../assets/images/heroBack.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+  position: relative;
+  padding: 170px 0px 37px 0px;
+}
+.heroWrap {
+  max-width: 980px;
+  width: 100%;
+  margin-left: auto;
+}
+.heroWrap img {
+  width: 100%;
+}
